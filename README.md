@@ -1,2 +1,3 @@
-# Photo.github.io
-Сайт на Bootsrap для фотографа
+## Сайт для фотографа на Bootstrap
+
+ - Это сайт можно [посмотреть](https://jfsolo.github.io/).
